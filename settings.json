@@ -40,4 +40,9 @@
         "editor.wordBasedSuggestions": false,
     },
     "dart.enableSnippets": false,
+    "git.enableCommitSigning": true,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": true,
+    "workbench.editor.untitled.hint": "hidden",
+    "security.workspace.trust.untrustedFiles": "open",
 }
