@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maxkreja
 - 👀 I’m interested in programming, photography, tech and drones
-- 🌱 I’m currently learning more about Unity
-- 💞️ I’m looking to collaborate on nothing at this time, because I am too busy
+- 🌱 I’m currently learning more about Angular
 - 📫 How to reach me: max@kreja.net
 
 <!---
