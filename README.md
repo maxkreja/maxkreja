@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxkreja
-- 👀 I’m interested in programming, photography, tech and drones
-- 🌱 I’m currently learning more about Angular
+- 👀 I’m interested in programming, photography and cylcing 🚴
+- 🌱 I’m currently learning more about Angular, NestJS and web-authentication
 - 📫 How to reach me: max@kreja.net
 
 <!---
